@@ -6,10 +6,10 @@
 
   There were two datasets used in this project, both relating to breast cancer. The first dataset is the “SyntheticDataset.csv” derived from Kaggle which was authored by Vivek Agrawal. This particular dataset is a synthetic dataset from a deep learning model that was trained on the “OriginalBreastCancerCoimbra.csv” dataset, originally found in the UC Irvine Machine Learning Repository. The original dataset has 116 instances based on clinical observations from 64 patients with breast cancer and 52 healthy controls. The deep learning model Vivek used was able to create a synthetic dataset with 4,000 instances, creating the dataset found in Kaggle. The models were trained on the synthetic dataset and tested on the original dataset. 
 
-  Within this repository, there are 3 folders:
-		- docs: contains the presentation and final report 
-		- data: contains the two datasets used in our project
-		- src: contains the source code
+  Within this repository, there are 3 folders:    
+  	- docs: contains the presentation and final report    
+   	- data: contains the two datasets used in our project    
+    	- src: contains the source code
 
 
 
