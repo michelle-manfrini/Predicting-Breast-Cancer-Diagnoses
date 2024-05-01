@@ -11,11 +11,11 @@ This repository contains:
 
 # Table of Contents
 
-* Background
-* Related Efforts
-* Maintainers
-* Contributers
-* License
+* [Background](#background)
+* [Related Efforts](#related-efforts)
+* [Maintainers](#maintainers)
+* [Contributers](#contributers)
+* [License](#license)
 
 # Background
 
