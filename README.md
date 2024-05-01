@@ -11,11 +11,11 @@ This repository contains:
 
 # Table of Contents
 
-* [Background](background)
-* [Related Efforts](related-efforts)
-* [Maintainers](maintainers)
-* [Contributers](contributers)
-* [License](contributing)
+* Background
+* Related Efforts
+* Maintainers
+* Contributers
+* License
 
 # Background
 
@@ -74,7 +74,7 @@ A list of important information regarding the features of the data. Create data 
 @michelle-manfrini
 
 # Contributors 
-This project exists thanks to all the people who contribute. @michelle-manfrini, @TjanMichela
+This project exists thanks to all the people who contribute: @michelle-manfrini, @TjanMichela
 
 # License
 
